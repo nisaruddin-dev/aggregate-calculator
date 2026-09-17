@@ -2,7 +2,7 @@
 
 A simple, transparent Streamlit web app that calculates your admission aggregate for Pakistani universities (NUST, FAST, UET, and others). It shows a full breakdown of how the final percentage is derived, so you can verify every step.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LIVE_APP_URL_HERE)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aggregate-calculator.streamlit.app/)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A simple, transparent Streamlit web app that calculates your admission aggregate
 
 ## 🖥️ Live Demo
 
-👉 **[Try the app here](YOUR_LIVE_APP_URL_HERE)**
+👉 **[Try the app here](https://aggregate-calculator.streamlit.app/)**
 
 > **Note:** To run this app locally, follow the instructions below. Local access is only available on your own machine at `http://localhost:8501`.
 
